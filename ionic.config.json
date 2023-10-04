@@ -1,0 +1,7 @@
+{
+  "name": "USbCommunicationCor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
